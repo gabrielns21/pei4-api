@@ -1,0 +1,16 @@
+com/example/pei4/model/Curso.class
+com/example/pei4/controller/gerarHorariosController.class
+com/example/pei4/model/DiaDisponível.class
+com/example/pei4/model/DiaComTurno.class
+com/example/pei4/repository/ProfessorRepository.class
+com/example/pei4/model/TurnoNoturno.class
+com/example/pei4/model/Professor.class
+com/example/pei4/Pei4Application.class
+com/example/pei4/model/Disciplina.class
+com/example/pei4/repository/DisciplinaRepository.class
+com/example/pei4/service/HorarioService.class
+com/example/pei4/model/DTO/GerarHorarioDto.class
+com/example/pei4/repository/CursoRepository.class
+com/example/pei4/model/Turma.class
+com/example/pei4/model/DiscplinaSesmestre.class
+com/example/pei4/repository/TurmaRepository.class

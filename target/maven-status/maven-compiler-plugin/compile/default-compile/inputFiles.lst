@@ -1,0 +1,17 @@
+/Users/gabriel/Documents/projetos/pei4/src/main/java/com/example/pei4/model/DTO/GerarHorarioDto.java
+/Users/gabriel/Documents/projetos/pei4/src/main/java/com/example/pei4/model/TurnoNoturno.java
+/Users/gabriel/Documents/projetos/pei4/src/main/java/com/example/pei4/model/DiaDisponível.java
+/Users/gabriel/Documents/projetos/pei4/src/main/java/com/example/pei4/service/HorarioService.java
+/Users/gabriel/Documents/projetos/pei4/src/main/java/com/example/pei4/repository/CursoRepository.java
+/Users/gabriel/Documents/projetos/pei4/src/main/java/com/example/pei4/repository/ProfessorRepository.java
+/Users/gabriel/Documents/projetos/pei4/src/main/java/com/example/pei4/repository/TurmaRepository.java
+/Users/gabriel/Documents/projetos/pei4/src/main/java/com/example/pei4/model/Disciplina.java
+/Users/gabriel/Documents/projetos/pei4/src/main/java/com/example/pei4/model/Curso.java
+/Users/gabriel/Documents/projetos/pei4/src/main/java/com/example/pei4/model/DiaComTurno.java
+/Users/gabriel/Documents/projetos/pei4/src/main/java/com/example/pei4/service/HorarioServiceTest.java
+/Users/gabriel/Documents/projetos/pei4/src/main/java/com/example/pei4/repository/DisciplinaRepository.java
+/Users/gabriel/Documents/projetos/pei4/src/main/java/com/example/pei4/model/Turma.java
+/Users/gabriel/Documents/projetos/pei4/src/main/java/com/example/pei4/Pei4Application.java
+/Users/gabriel/Documents/projetos/pei4/src/main/java/com/example/pei4/model/DiscplinaSesmestre.java
+/Users/gabriel/Documents/projetos/pei4/src/main/java/com/example/pei4/controller/gerarHorariosController.java
+/Users/gabriel/Documents/projetos/pei4/src/main/java/com/example/pei4/model/Professor.java
